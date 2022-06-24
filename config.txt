@@ -1,0 +1,5 @@
+﻿"host" : "127.0.0.1"
+"user" : "postgres"
+"password" : "1111"
+"database" : "calls_db"
+"port" : 5432
